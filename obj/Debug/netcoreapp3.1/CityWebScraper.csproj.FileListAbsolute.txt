@@ -1,0 +1,13 @@
+c:\Users\CamWa\Documents\CityWebScraper\bin\Debug\netcoreapp3.1\CityWebScraper.exe
+C:\Users\CamWa\Documents\CityWebScraper\bin\Debug\netcoreapp3.1\CityWebScraper.deps.json
+C:\Users\CamWa\Documents\CityWebScraper\bin\Debug\netcoreapp3.1\CityWebScraper.runtimeconfig.json
+C:\Users\CamWa\Documents\CityWebScraper\bin\Debug\netcoreapp3.1\CityWebScraper.runtimeconfig.dev.json
+c:\Users\CamWa\Documents\CityWebScraper\bin\Debug\netcoreapp3.1\CityWebScraper.dll
+c:\Users\CamWa\Documents\CityWebScraper\bin\Debug\netcoreapp3.1\CityWebScraper.pdb
+c:\Users\CamWa\Documents\CityWebScraper\bin\Debug\netcoreapp3.1\IronWebScraper.dll
+c:\Users\CamWa\Documents\CityWebScraper\obj\Debug\netcoreapp3.1\CityWebScraper.csprojAssemblyReference.cache
+c:\Users\CamWa\Documents\CityWebScraper\obj\Debug\netcoreapp3.1\CityWebScraper.AssemblyInfoInputs.cache
+c:\Users\CamWa\Documents\CityWebScraper\obj\Debug\netcoreapp3.1\CityWebScraper.AssemblyInfo.cs
+C:\Users\CamWa\Documents\CityWebScraper\obj\Debug\netcoreapp3.1\CityWebScraper.csproj.CopyComplete
+c:\Users\CamWa\Documents\CityWebScraper\obj\Debug\netcoreapp3.1\CityWebScraper.dll
+c:\Users\CamWa\Documents\CityWebScraper\obj\Debug\netcoreapp3.1\CityWebScraper.pdb

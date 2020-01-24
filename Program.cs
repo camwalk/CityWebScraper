@@ -16,8 +16,9 @@ namespace CityWebScraper
     {
         public override void Init()
         {
+            License.LicenseKey = "LicenseKey";
             this.LoggingLevel = WebScraper.LogLevel.All;
-            this.Request("https://www.cityofglasgowcollege.ac.uk/course-search", Parse);
+            this.Request("https://www.cityofglasgowcollege.ac.uk/course-search?sort_by=field_template_reference_field_qualification&sort_order=ASC&f%5B0%5D=field_template_reference%253Afield_mode_of_study%3A139&page=", Parse);
         }
         public override void Parse(Response response)
         {

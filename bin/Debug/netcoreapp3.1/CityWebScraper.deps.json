@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CityWebScraper/1.0.0": {
+        "dependencies": {
+          "IronWebScraper": "4.0.4.3"
+        },
+        "runtime": {
+          "CityWebScraper.dll": {}
+        }
+      },
+      "IronWebScraper/4.0.4.3": {
+        "runtime": {
+          "lib/net452/IronWebScraper.dll": {
+            "assemblyVersion": "4.0.4.29861",
+            "fileVersion": "4.0.4.3"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CityWebScraper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IronWebScraper/4.0.4.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JzNIk/8QG5+aWSH1gH6cpfwn0XpHeONQ1gdNGSfgNebEnK1R5V+9vukMet7kdkMPVxgPukIDKBe32NrctqqUFg==",
+      "path": "ironwebscraper/4.0.4.3",
+      "hashPath": "ironwebscraper.4.0.4.3.nupkg.sha512"
+    }
+  }
+}

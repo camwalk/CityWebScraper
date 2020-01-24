@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\CamWa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\CamWa\\.nuget\\packages"
+    ]
+  }
+}
